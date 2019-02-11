@@ -1,0 +1,29 @@
+.banner-container {
+	color: white;
+	padding: 100px;
+	background-image: url('../media/header-bg.jpg');
+	background-size: 110%;
+	background-position: 30% 50%;
+}
+
+.banner-container h2 {
+	font-size: 42px;
+	font-weight: 100;
+	font-style: italic;
+	font-family: serif;
+}
+
+.banner-container h1 {
+	font-size: 62px;
+}
+
+.banner-container button {
+	background-color: goldenrod;
+	width: 200px;
+	height: 60px;
+	color: white;
+	font-size: 18px;
+	font-weight: bold;
+	border: none;
+	border-radius: 5px;
+}
